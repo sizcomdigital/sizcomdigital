@@ -1,4 +1,4 @@
-<h1 align="center">SIZCOM DIGITAL</h1>
+<h1 align="center"> SIZCOM DIGITAL</h1>
 <h3 align="center">A leading Digital marketing company</h3>
 
 - 📫 How to reach me **info@sizcomdigital.com**
@@ -6,6 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://in.linkedin.com/company/sizcomdigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/company/sizcomdigital" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sizcomdigital/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sizcomdigital/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sizcom_digital/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sizcom_digital/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@sizcomdigital7654/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sizcomdigital7654/videos" height="30" width="40" /></a>
 </p>
 
