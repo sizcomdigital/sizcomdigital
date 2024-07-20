@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SIZCOM DIGITAL</h1>
+<h1 align="center">SIZCOM DIGITAL</h1>
 <h3 align="center">A leading Digital marketing company</h3>
 
 - 📫 How to reach me **info@sizcomdigital.com**
